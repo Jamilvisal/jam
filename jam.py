@@ -1,4 +1,4 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
+DT# Decompile by Mardis (Tools By Kapten-Kaizo)
 # Time Succes decompile : 2023-02-07 00:26:14.084668
 from os import path
 import os,base64,zlib,pip,urllib
@@ -500,4 +500,6 @@ def approval():
   except:
     sys.exit()
     
-riaz(
+riaz()
+
+
